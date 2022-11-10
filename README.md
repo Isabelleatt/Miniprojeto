@@ -1,5 +1,5 @@
 # MiniProjeto
-###Miniprojeto de Matemática do Contínuo sobre otmização pelo vetor gradiente
+### Miniprojeto de Matemática do Contínuo sobre otmização pelo vetor gradiente
 
 Quando estudamos as funções de uma variável, vimo a importância da derivada nos processos de otmização (determinação dos pontos máximos e de mínimo de funções). O mesmo problema pode ser considerado no contexto das funções de duas ou mais variáveis. Por exemplo, de que forma as derivadas parciais podem ser usadas para determinar os pontos de máximo e de mínimo da função $f$ cujo gráfico é mostrado a seguir?
 Neste miniprojeto, você vai estudar e implementar um método numérico para determinar pontos de máximo e de mínimos locais de funções de duas variáveis.
